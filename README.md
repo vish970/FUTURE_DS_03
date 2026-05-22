@@ -125,7 +125,6 @@ Converted:        5,289   (11.7%)
 |------|-------------|
 | future_ds_03.pbix | Power BI Dashboard |
 | bank-full.csv | Cleaned Dataset |
-| dashboard_bg.png | Background Template |
 | README.md | Project Documentation |
 | screenshot.png | Dashboard Screenshot |
 
